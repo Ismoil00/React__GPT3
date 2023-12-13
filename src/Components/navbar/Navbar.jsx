@@ -3,7 +3,7 @@ import { useState } from "react";
 import { HiMenuAlt3 } from "react-icons/hi";
 import { IoMdClose } from "react-icons/io";
 import "./navbar.css";
-import logo from "../../assets/GPT-3.svg";
+import logo from "../../assets/logo.svg";
 
 const Menu = () => (
   <>
